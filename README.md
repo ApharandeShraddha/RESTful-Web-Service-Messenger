@@ -3,7 +3,7 @@ RESTful web service implementation using Jersey
 
    A Social Media Application Messenger 
 
-     1  APIS To get , Update , DELETE and ADD messages , Comments , Links and Profile Information.
+    1  APIS To GET, UPDATE, DELETE and ADD messages, Comments, Links and Profile Information.
  
   2. Main purpose of project is to implement RestFul APis and routes Using JAX-RS (Jersey) , So I have not used any database .Instead I          have used manual data and stored that to Map and reutrning values from Map for corresponding REST request.
  
