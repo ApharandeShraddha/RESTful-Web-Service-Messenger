@@ -11,6 +11,6 @@ RESTful web service implementation using Jersey
  
   4. Implemented HATEOAS (To Send Links In Response) Using URIInfo.
  
-  5. Content Nigation is added to support for both JSON and XML format consumption.
+  5. Content-Negotiation is added to support for both JSON and XML format consumption.
  
   6. Used POSTMAN To test the APIS.
